@@ -40,3 +40,27 @@
     filter: grayscale(1);
 }
 /* fine esercizio 6 */
+/* esercizio 7 */
+.ex-7-img:hover {
+    transition: 2s;
+    filter: grayscale(1);
+    filter: sepia(0.7);
+}
+/* fine esercizio 7 */
+/* esercizio 8 */
+.ex-8-img:hover {
+    transition: 2s;
+    filter: grayscale(0.8);
+    filter: sepia(0.8);
+    border-radius: 20px;
+}
+/* fine esercizio 8 */
+/* esercizio 9 */
+.ex-9-img:hover {
+    transition: 2s;
+    border-radius: 20px;
+    filter: grayscale(0.8);
+    filter: sepia(0.8);
+    transform: scale(1.5);
+}
+/* fine esercizio 9 */
