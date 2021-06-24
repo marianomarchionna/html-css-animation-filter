@@ -17,3 +17,26 @@
 }
 /* fine esercizio 3 */
 /* esercizio 4 */
+.ex-4-square:hover {
+    transition: 2s;
+    opacity: 0;
+}
+/* fine esercizio 4 */
+/* esercizio 5 */
+.ex-5-square {
+    transition: 2s;
+}
+
+.ex-5-square:hover {
+    transform: scale(2);
+}
+
+.ex-5-square:active {
+    transform: scale(0.5);
+}
+/* fine esercizio 5 */
+/* esercizio 6 */
+.ex-6-img:hover {
+    filter: grayscale(1);
+}
+/* fine esercizio 6 */
